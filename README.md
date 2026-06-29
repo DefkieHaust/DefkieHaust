@@ -1,7 +1,7 @@
 <img width="438" height="118" alt="4abdbd4e-58c2-4718-9217-9bd7c6b00e36" src="https://github.com/user-attachments/assets/441c8e79-da8d-428a-85af-5fd1ffd4c269" />
 
 # About Me
-![Github Followers](https://img.shields.io/github/followers/defkiehaust?label=Followers&logo=GitHub&style=for-the-badge) [![Email](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:syed.asil.hussain@outlook.com) [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff&style=for-the-badge)](https://www.linkedin.com/in/asil-hussain)
+[![Email](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:syed.asil.hussain@outlook.com) [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff&style=for-the-badge)](https://www.linkedin.com/in/asil-hussain) [![Medium](https://img.shields.io/badge/Medium-%23000000.svg?logo=medium&logoColor=white&style=for-the-badge)](https://medium.com/me/@AsilHussain)
 
 - Cloud/DevOps Engineer
 - Linux Enthusiast
